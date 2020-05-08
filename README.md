@@ -61,12 +61,12 @@ Appointments services ------> Services id
 
 
 
-We did not use any external API as we have created our own fixture file taking advantage of the fact that we could use the Django Framework 229 services provided by the healthcare institution  were hardcoded in the framework and then a fixture file will all the avaliable services, so when we were loading the databases is worth to metion that was done with Postgree SQL databes as it was the first time that we have the chance to work during the project with SQL.
+We did not use any external API as we have created our own fixture file taking advantage of the fact that we could use the Django Framework 229 services provided by the healthcare institution  were hardcoded in the framework and then a fixture file will all the avaliable services, so when we were loading the databases is worth to metion that was done with Postgree SQL database as it was the first time that we have the chance to work during the project with SQL.
 
 
 <img  src=frontend/Images/PostgreeSQL.png height=500> 
 
-We deceided to use a Open Source REST  [API](https://opentdb.com/api_config.php) to fetch our questions and answers for the quiz. 
+ 
 
 ## The Backend
 
