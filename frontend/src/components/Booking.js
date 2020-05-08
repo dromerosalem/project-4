@@ -56,7 +56,7 @@ class Booking extends React.Component {
       <section className="bookingPay">
         <div className="servicesPay">
           <div className="bookedService">
-            <h1>Your aqcuired services below</h1>
+            <h1>Your acquired services below</h1>
             {mappedAppointments.map((elem, index) => {
               return (
                 <div key={index++}>
