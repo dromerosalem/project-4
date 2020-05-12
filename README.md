@@ -24,7 +24,6 @@ You can launch the site on Heroku [here](https://labs-project4.herokuapp.com/#/)
 - Django
 - React.js
 - Bulma
-- CSS3
 - JSON
 - Babel
 - Google Fonts
@@ -33,7 +32,6 @@ You can launch the site on Heroku [here](https://labs-project4.herokuapp.com/#/)
 - Webpack
 - Git and GitHub
 - JavaScript (ES6+)
-- LoaderSpinner
 - HTML5
 
 
