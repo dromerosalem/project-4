@@ -390,6 +390,13 @@ This component is the last one of the User journey as it will be showing all the
  - I big successes was at the really begining of the project when doing the data modeling we had a clear idea of what we wanted to build so at the moment to make the MVC we did it in a fast and efficient manner. 
 
 
+ ## Lessons Learned
+
+- Working with Django in order to build our own API was something that I really enjoyed, buidling the data modeling and work with the relationships between them. I understood with that project how powerfull Python it is and in particular the Django framework what I found it user friendly and clear enough when bulding our model schemmas. 
+
+- Passing the state from one component to the other is something I was not expecting to do and I will add it to my skill belt for the future when working with React Components.
+
+- React Hooks was one of the newest tech we had the chance to try. I used in one of the commponents `Profile.js`  to get use to it.
 
 
 
